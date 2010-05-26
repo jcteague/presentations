@@ -1,0 +1,31 @@
+A. When the Application is Started	
+	1. The User Should be Prompted for a UserName
+	2. The User Should be Prompted for a Password
+
+B. Given an existing user an a valid password
+	When the user logs in
+	Then the user can access the system.
+
+C: Given a user that does not exist in the system
+	When the user attempts to logon
+	An invalid login message is diplayed
+	
+D: Given a user that does not exist in the system
+	When the user attempts to logon
+	An invalid login message is diplayed
+
+E: Given a user who has been locked out
+	When the user attempts to logon
+	Then a Locked Out message is displayed
+
+F: Given a user who is Inactive
+	When the user attempts to logon
+	Then a  Out message is displayed
+
+G: Given a user who is attempting to login with an incorrect password
+	When the user unsuccessfully attempts to login 5 times
+	Then the User is locked out
+
+H: Refactor Login Prompter to remove dependency on console
+
+F: Refactor code in console app into a testable code

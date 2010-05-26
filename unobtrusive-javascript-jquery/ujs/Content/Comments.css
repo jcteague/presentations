@@ -1,0 +1,54 @@
+﻿body {
+	margin: 10px auto;
+	text-align:center;
+	
+}
+h3 {
+	margin: 0;
+	padding: 0 0 .3em;
+}
+p {
+	margin: 0;
+	padding: 0 0 .5em;
+}
+.pane {
+  text-align:left;
+  height: 250px;
+	padding: 10px 20px 10px;
+	position: relative;
+	
+}
+.pane .delete {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	cursor: pointer;
+}
+.wrapper {
+	width: 300px;
+	margin:15px auto;
+	background: url(images/img10.jpg) repeat-y;
+}
+
+.wrapper2 {
+	background: url(images/img05.jpg) no-repeat left bottom;
+}
+
+.box_round {
+     -moz-border-radius: 12px; /* FF1+ */
+  -webkit-border-radius: 12px; /* Saf3+, Chrome */
+          border-radius: 12px; /* Opera 10.5, IE 9 */
+}
+  
+.box_shadow {
+     -moz-box-shadow: 0px 0px 4px #ffffff; /* FF3.5+ */
+  -webkit-box-shadow: 0px 0px 4px #ffffff; /* Saf3.0+, Chrome */
+          box-shadow: 0px 0px 4px #ffffff; /* Opera 10.5, IE 9.0 */
+}
+  
+.box_gradient {
+  background-image: -moz-linear-gradient(top, #444444, #999999); /* FF3.6 */
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #444444),color-stop(1, #999999)); /* Saf4+, Chrome */
+            filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#444444', EndColorStr='#999999'); /* IE6,IE7 */
+        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#444444', EndColorStr='#999999')"; /* IE8 */
+}

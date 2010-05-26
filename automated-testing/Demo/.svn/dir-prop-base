@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 203
+_ReSharper.UnitTestingDemo
+_ReSharper.UntestedApp
+obj
+bin
+UnitTestingDemo.4.1.resharper.user
+UnitTestingDemo.4.5.resharper.user
+UnitTestingDemo.suo
+UntestedApp.4.1.resharper.user
+UntestedApp.csproj.user
+
+END

@@ -1,0 +1,18 @@
+Tools Installed
+	NUnit
+	MSpec
+	Moq
+	NBuilder
+	Resharper
+	TestDriven.Net
+	
+	
+Your First Test
+	NUnit Order of Execution
+	Assertions
+
+
+Who is writing tests
+Who is using Mocking Framework
+Who is using Builders for test data
+

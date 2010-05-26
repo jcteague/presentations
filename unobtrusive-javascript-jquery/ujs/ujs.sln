@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ujs", "ujs.csproj", "{6F2659D4-4D08-4262-8E9D-947A3A45039C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2659D4-4D08-4262-8E9D-947A3A45039C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2659D4-4D08-4262-8E9D-947A3A45039C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2659D4-4D08-4262-8E9D-947A3A45039C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2659D4-4D08-4262-8E9D-947A3A45039C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

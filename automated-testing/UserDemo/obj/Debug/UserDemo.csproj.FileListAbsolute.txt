@@ -1,0 +1,5 @@
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UserDemo\bin\Debug\UserDemo.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UserDemo\bin\Debug\UserDemo.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UserDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UserDemo\obj\Debug\UserDemo.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UserDemo\obj\Debug\UserDemo.pdb

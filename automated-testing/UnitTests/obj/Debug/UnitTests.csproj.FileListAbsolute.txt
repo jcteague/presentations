@@ -1,0 +1,9 @@
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\UnitTests.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\obj\Debug\UnitTests.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\obj\Debug\UnitTests.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\UserDemo.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UnitTests\bin\Debug\UserDemo.pdb

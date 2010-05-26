@@ -1,0 +1,102 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Models/f:Comments.cs" caret="42" fromTop="1" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3937" fromTop="30" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="8" fromTop="0" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="948" fromTop="25" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="393" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Models/f:Comments.cs" caret="165" fromTop="5" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3596" fromTop="28" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3596" fromTop="24" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="1046" fromTop="16" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3268" fromTop="22" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3627" fromTop="2" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3748" fromTop="23" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="4110" fromTop="34" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="3830" fromTop="34" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="115" fromTop="0" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Controllers/f:CommentsController.cs" caret="4061" fromTop="38" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="48" fromTop="1" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="508" fromTop="36" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="679" fromTop="29" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="893" fromTop="35" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="692" fromTop="14" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="167" fromTop="13" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Content/f:Comments.css" caret="1378" fromTop="18" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="1072" fromTop="42" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="690" fromTop="5" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="449" fromTop="0" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="1006" fromTop="13" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="698" fromTop="36" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="996" fromTop="42" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="500" fromTop="9" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="397" fromTop="11" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="678" fromTop="15" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Views/d:Comments/f:Index.aspx" caret="948" fromTop="25" />
+      <File id="6F2659D4-4D08-4262-8E9D-947A3A45039C/d:Scripts/f:Comments.js" caret="85" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="2" />
+      <Item value="int" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="List&lt;Comments&gt;" priority="0" />
+      <Item value="CommentsController`0" priority="0" />
+      <Item value="Comments" priority="4" />
+      <Item value="Id" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Body" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="View`0" priority="2" />
+      <Item value="Model" priority="0" />
+      <Item value="comment" priority="1" />
+      <Item value="Html" priority="2" />
+      <Item value="c" priority="0" />
+      <Item value="itemToRemove" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="Comments`0" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="RedirectResult`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ujs.Models.Comments">
+      <Item value="Title" priority="0" />
+      <Item value="Body" priority="0" />
+      <Item value="Id" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="RemoveAt`0" priority="0" />
+      <Item value="First`1" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

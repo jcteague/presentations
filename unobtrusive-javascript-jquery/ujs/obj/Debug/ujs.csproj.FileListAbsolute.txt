@@ -1,0 +1,5 @@
+C:\Users\John\Code\ujs-demo\ujs\bin\ujs.dll
+C:\Users\John\Code\ujs-demo\ujs\bin\ujs.pdb
+C:\Users\John\Code\ujs-demo\ujs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Code\ujs-demo\ujs\obj\Debug\ujs.dll
+C:\Users\John\Code\ujs-demo\ujs\obj\Debug\ujs.pdb

@@ -1,0 +1,160 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="6" />
+      <Item value="bool" priority="0" />
+      <Item value="new" priority="9" />
+      <Item value="var" priority="2" />
+      <Item value="userRepository" priority="1" />
+      <Item value="User" priority="6" />
+      <Item value="private" priority="0" />
+      <Item value="void" priority="2" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="return" priority="4" />
+      <Item value="List" priority="0" />
+      <Item value="InvalidLoginAttempts" priority="1" />
+      <Item value="UserName" priority="0" />
+      <Item value="IsActive" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="IsPasswordExpired" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="Password" priority="0" />
+      <Item value="PopulateUsers" priority="0" />
+      <Item value="_users" priority="0" />
+      <Item value="u" priority="1" />
+      <Item value="username" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="user" priority="0" />
+      <Item value="LoginResult" priority="1" />
+      <Item value="LoggedIn" priority="1" />
+      <Item value="Message" priority="1" />
+      <Item value="password" priority="0" />
+      <Item value="public" priority="7" />
+      <Item value="enum" priority="0" />
+      <Item value="struct" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="ObjectMother" priority="4" />
+      <Item value="tfsa" priority="1" />
+      <Item value="su" priority="2" />
+      <Item value="test" priority="4" />
+      <Item value="td" priority="0" />
+      <Item value="TestFixtureTearDown" priority="0" />
+      <Item value="service" priority="0" />
+      <Item value="Assert" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="IUserRepository" priority="2" />
+      <Item value="sut" priority="0" />
+      <Item value="MockUserRepository" priority="4" />
+      <Item value="UserLoginService" priority="1" />
+      <Item value="_repository" priority="2" />
+      <Item value="CreateSUT" priority="0" />
+      <Item value="UserToReturn" priority="0" />
+      <Item value="IsInActive" priority="0" />
+      <Item value="r" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Where" priority="0" />
+      <Item value="SingleOrDefault" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserDemo.User">
+      <Item value="UserName" priority="1" />
+      <Item value="IsActive" priority="0" />
+      <Item value="IsLockedOut" priority="0" />
+      <Item value="IsPasswordExpired" priority="0" />
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserDemo.UserRepository">
+      <Item value="GetByUserName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnitTests.ObjectMother">
+      <Item value="UserNames" priority="2" />
+      <Item value="ValidUser" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnitTests.ObjectMother+UserNames">
+      <Item value="Valid" priority="2" />
+      <Item value="LockedOut" priority="0" />
+      <Item value="Invalid" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserDemo.UserLoginService">
+      <Item value="Login" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserDemo.LoginResult">
+      <Item value="LoggedIn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UnitTests.MockUserRepository">
+      <Item value="UserToReturn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStub" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UserDemo.IUserRepository">
+      <Item value="Stub" priority="0" />
+      <Item value="GetByUserName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="IgnoreArguments" priority="0" />
+      <Item value="Return" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:User.cs" caret="284" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserLoginService.cs" caret="191" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="825" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:ObjectMother.cs" caret="450" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="687" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:User.cs" caret="70" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:User.cs" caret="70" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:User.cs" caret="70" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:User.cs" caret="453" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="1353" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="1353" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="339" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="509" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserLoginService.cs" caret="1051" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="1237" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserLoginService.cs" caret="933" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:ObjectMother.cs" caret="54" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="488" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserRepository.cs" caret="199" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserLoginService.cs" caret="115" fromTop="5" />
+      <File id="863B4E2D-DE03-40A2-9E87-A0470A39DCEF/f:UserLoginService.cs" caret="355" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="1043" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="1309" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="1562" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="1899" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:ObjectMother.cs" caret="561" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:ObjectMother.cs" caret="398" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="206" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="471" fromTop="5" />
+      <File id="463C8315-4EFD-4C45-B38B-7828ADE5BDD3/f:UserLoginTests.cs" caret="785" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

@@ -1,0 +1,10 @@
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UntestedApp\bin\UntestedApp.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UntestedApp\bin\UntestedApp.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UntestedApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UntestedApp\obj\Debug\UntestedApp.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\UntestedApp\obj\Debug\UntestedApp.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\Demo\bin\UntestedApp.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\Demo\bin\UntestedApp.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\Demo\obj\Debug\UntestedApp.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\automated testing\Demo\obj\Debug\UntestedApp.pdb
